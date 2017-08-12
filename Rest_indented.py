@@ -1,6 +1,6 @@
 import requests
 import json
-trackNum=input("Input ")       #"777255010172"
+trackNum=input("Input ")       
 
 data = {
     'data': json.dumps({
